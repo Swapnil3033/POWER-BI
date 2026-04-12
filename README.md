@@ -1,8 +1,9 @@
 # HR Analytics Dasboard
    
 # 📊 Purpose of HR Analytics Dashboard 
-      Its primary purpose is to help organizations make informed HR decisions by analyzing key metrics such as 
-      employee attrition, performance, and workforce distribution.
+
+      Its primary purpose is to help organizations make informed HR decisions by analyzing key metrics 
+      such as employee attrition, performance, and workforce distribution.
       This dashboard enables HR teams to:
        - Monitor employee attrition rates and identify key factors contributing to employee turnover
        - Analyze department-wise and role-based workforce distribution
@@ -10,10 +11,11 @@
        -Understand the those employees profecient and according of that level marks to them
        -identify which employee got promotion
        
-      By transforming raw HR data into interactive visualizations,the dashboard supports strategic planning,
-      improves decision-making, and enhances overall organizational efficiency.             
+      By transforming raw HR data into interactive visualizations,the dashboard supports 
+      strategic planning,improves decision-making, and enhances overall organizational efficiency.             
 
 # 🛠️ Tech Stack
+
        The dashboard was built using the following tools and technologies:
       • 📊 Power BI Desktop – Main data visualization platform used for report creation.
       • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
