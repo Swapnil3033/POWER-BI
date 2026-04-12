@@ -16,21 +16,18 @@ strategic planning,improves decision-making, and enhances overall organizational
 
 # 🛠️ Tech Stack
 The dashboard was built using the following tools and technologies:
-  •📊 Power BI Desktop – Main data visualization platform used for report creation.
-  •📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.                              •🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-  •📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable                       cross-filtering and aggregation.
-  •📁 File Format – .pbix for development and .png for dashboard previews
+  •📊Power BI Desktop–Main data visualization platform used for report creation.
+  •📂Power Query–Data transformation and cleaning layer for reshaping and preparing the data.                                 •🧠DAX (Data Analysis Expressions)–Used for calculated measures, dynamic visuals, and                                         conditional logic.
+  •📝Data Modeling–Relationships established among tables (resorts, snow, and data_dictionary) to enable                       cross-filtering and aggregation.
+  •📁File Format–.pbix for development and .png for dashboard previews
 
 # 📂 Data Source
 
 The dataset used for this project is sourced from Kaggle.
 It is a publicly available HR Analytics dataset, commonly used for analyzing 
 employee attrition and workforce trends.
-The dataset contains employee-related information such as:
-        
--Demographics (Age, Gender, Education)
--Job details (Department, Job Role, Salary, Years at Company)
--Performance metrics (Job Satisfaction, Work-Life Balance)
+The dataset contains employee-related information such as:                                                                   -Demographics (Age, Gender, Education)
+-Job details (Department, Job Role, Salary, Years at Company)                                                                -Performance metrics (Job Satisfaction, Work-Life Balance)
 -Attrition status (Yes/No)
 -The data is in CSV format, making it easy to import into Power BI for analysis and visualization.
 -This dataset is widely used for learning, practice, and building HR analytics dashboards.
